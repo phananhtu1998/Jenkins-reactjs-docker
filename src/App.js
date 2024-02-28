@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          123 alo ty dao
+          123 456 alo ty dao
         </p>
         <a
           className="App-link"
